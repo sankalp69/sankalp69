@@ -63,13 +63,9 @@
 
 ### Projects & Highlights
 
-- AI for Marketing Generator using GPT-4, Gemini APIs with Streamlit UI
-- Bitcoin Price Prediction using Machine Learning Models
-- Diabetes prediction using Machine Learning Models
-- House Price Prediction and Analysis using Machine Learning Models
-- Pizza sales analysis with Power BI Dashboards
-- Blinkit sales analysis using Power BI 
-- T20 Cricket Match Data Analysis with Power BI Dashboards
+- Manufacturing Efficiency Dashboard
+- AI Ultimate Travel Planner
+- Insurance Cross-Sell Prediction App
 
 ---
 
