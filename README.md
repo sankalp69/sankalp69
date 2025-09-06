@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">
-  Hello, I'm Dinesh Kumar Manimela
+  Hello, I'm Sankalp Patekar
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dineshkumar8464&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sankalp69&color=blue" alt="Profile views" />
 </p>
 
 ---
