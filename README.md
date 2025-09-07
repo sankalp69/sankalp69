@@ -72,11 +72,11 @@
 ### Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B2WMNgbbeS560CinvEI3Fdw%3D%3D" target="_blank">
+  <a href="[https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B2WMNgbbeS560CinvEI3Fdw%3D%3D](https://www.linkedin.com/in/sankalp-patekar/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="dineshmanimela088@gmail.com" target="_blank">
+  <a href="sankalp.p7788@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -91,12 +91,12 @@
 
 <!-- Optional GitHub stats card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshkumar8464&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sankalp69&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 
 ---
 
 <!-- Optional Top Languages card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkumar8464&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp69&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
